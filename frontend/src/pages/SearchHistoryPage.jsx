@@ -29,7 +29,7 @@ function formatDate(dateString) {
   const day = date.getUTCDate();
   const year = date.getUTCFullYear();
 
-  // Return the formatted date string
+  // Return the formatted date string//
   return `${month} ${day}, ${year}`;
 }
 
