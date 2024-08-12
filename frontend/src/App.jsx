@@ -4,7 +4,7 @@ import LoginPage from "./pages/LoginPage";
 import SignUpPage from "./pages/SignUpPage";
 import WatchPage from "./pages/WatchPage";
 import SearchPage from "./pages/SearchPage";
-import SearchHistoryPage from "./pages/SearchHistorypage";
+import SearchHistoryPage from "./pages/SearchHistoryPage";
 import NotFoundPage from "./pages/404";
 import Footer from "./components/Foter";
 import { Toaster } from "react-hot-toast";
